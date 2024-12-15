@@ -1,0 +1,8 @@
+pytest
+boto3
+requests
+joserfc
+moto
+logger
+openapi_spec_validator
+PyJWT
